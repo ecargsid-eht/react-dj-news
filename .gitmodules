@@ -1,0 +1,3 @@
+[submodule "news_front"]
+	path = news_front
+	url = https://github.com/ecargsid-eht/news-dj-front
